@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rayyan Faizal 👋
+
+🎓 Computer Science Graduate  
+📊 Aspiring Data Analyst  
+
+## Skills
+- Python (pandas, numpy)
+- SQL
+- Power BI
+- Data Visualization
+
+## Current Focus
+Building data analytics projects for my portfolio
+
+## Projects
+- Player Stats Dashboard (in progress)
+
+## Contact
+- Email: rayyan@faizal.net
 
 <!--
 **r-faizal/r-faizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
