@@ -13,7 +13,7 @@
 Building data analytics projects for my portfolio
 
 ## Projects
-- Player Stats Dashboard (in progress)
+- Ecommerce Sales Analytics (in progress)
 
 ## Contact
 - Email: rayyan@faizal.net
