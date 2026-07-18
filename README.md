@@ -1,21 +1,42 @@
-# Hi, I'm Rayyan Faizal 👋
+# Hi, I'm Rayyan 👋
 
-🎓 Computer Science Graduate  
-📊 Aspiring Data Analyst  
+## 🧑‍💻 About Me
 
-## Skills
-- Python (pandas, numpy)
-- SQL
-- Power BI
-- Data Visualization
+- 🎓 Computer Science Graduate
+- 📊 Interested in Data Analytics & Data Engineering
+- 🐍 Python | SQL | Excel | Power BI
+- 📈 Building data analytics projects
+- 🌱 Currently learning Apache Spark and cloud technologies
 
-## Current Focus
-Building data analytics projects for my portfolio
+## 🛠️ Tech Stack
 
-## Projects
-- Ecommerce Sales Analytics (in progress)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-## Contact
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-faizal&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-faizal&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=r-faizal)
+
+![Visitors](https://komarev.com/ghpvc/?username=r-faizal)
+
+## 📁 Featured Projects
+
+### 📈 Ecommerce Sales Analytics (in progress)
+Python, Pandas, Matplotlib, SQL
+
+Analysed sales data to identify trends, customer behaviour and business insights.
+
+## 📫 Contact
+
+- Linkedin: linkedin.com/in/rayyan-faizal
 - Email: rayyan@faizal.net
 
 <!--
